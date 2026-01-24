@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "aframe": "^0.9.2",
+    "aframe": "^1.7.1",
     "aframe-animation-component": "^5.1.2",
     "aframe-react": "^4.4.0",
     "aframe-react-assets": "^2.0.5",
